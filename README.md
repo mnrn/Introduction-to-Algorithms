@@ -1,4 +1,3 @@
 # CLRS
 
-アルゴリズムイントロダクションのアルゴリズムとデータ構造をC++で実装しました。  
-数学関連で一部PythonとFortranで実装したものもあります。
+Algorithm and data structure implemented in C++.
